@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FreeBooks</string>
+    <string name="add_book">Agregar Libro</string>
+    <string name="dialog_message">Hi</string>
+    <string name="title">Titulo</string>
+    <string name="author">Autor</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="year">Año</string>
+    <string name="ok">Ok!</string>
+    <string name="cancel">Cancelar</string>
+</resources>
